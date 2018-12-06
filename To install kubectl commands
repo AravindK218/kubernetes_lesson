@@ -11,3 +11,8 @@ function install_kubectl {
     fi
  
 }
+
+
+Copy paste the above in the CLI and execute the below command
+
+install_kubectl 
